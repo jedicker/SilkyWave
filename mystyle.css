@@ -14,6 +14,14 @@ margin-right:   auto;
 	
 }
 
+.coupon {
+width: 400px;
+position: absolute;
+font-size: 15; 
+padding: 5px;
+	
+}
+
 
 td {
 font-family: Verdana;
@@ -83,7 +91,7 @@ td.header {
 ul li {
 	list-style-type: none;
 	overflow: auto;
-	padding: 0;
+	padding: 2px;
 	margin: 0;	
 }
 
@@ -128,3 +136,21 @@ width: 1%;
 	width: relative;
 }
 
+.main {
+	width: 1300px;
+	margin-left: auto;
+    margin-right: auto;
+	zoom: 1;
+}
+
+
+a:link.black {
+color: gray;
+text-decoration: none;
+}
+
+table.v td, table.v th {
+	vertical-align: middle;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
