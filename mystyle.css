@@ -147,6 +147,7 @@ width: 1%;
 a:link.black {
 color: gray;
 text-decoration: none;
+vertical-align: middle;
 }
 
 table.v td, table.v th {
