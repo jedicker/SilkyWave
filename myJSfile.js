@@ -13,11 +13,8 @@ function printButton2() {
 	var wnd = window.open('coupon2.html');
 }
 
-var interval = 1500;
-var random_display = 0;
-var imageDir ="./images";
-var imageNum = 0;
 
+<<<<<<< HEAD
 immageArray = new Array ();
 imageArray[imageNum++] = new imageItem (imageDir + "hair1.jpeg");
 imageArray[imageNum++] = new imageItem (imageDir + "hair2.jpeg");
@@ -71,3 +68,5 @@ function getPrevImage (place) {
 	var recur_call = "switchImage('"+place+"')";
 	timerID = setTimeout (recur_call, interval);
 }
+=======
+>>>>>>> bye
