@@ -25,10 +25,10 @@ imageArray[imageNum++] = new imageItem (imageDir + "hair3.jpeg");
 imageArray[imageNum++] = new imageItem (imageDir + "hair4.jpeg");
 imageArray[imageNum++] = new imageItem (imageDir + "hair5.jpeg");
 imageArray[imageNum++] = new imageItem (imageDir + "hair6.jpeg");
-imageArray[imageNum++] = new imageItem (imageDir + "hair7.JPG");
-imageArray[imageNum++] = new imageItem (imageDir + "hair8.JPG");
-imageArray[imageNum++] = new imageItem (imageDir + "hair9.JPG");
-imageArray[imageNum++] = new imageItem (imageDir + "hair10.JPG");
+imageArray[imageNum++] = new imageItem (imageDir + "hair7.jpeg");
+imageArray[imageNum++] = new imageItem (imageDir + "hair8.jpeg");
+imageArray[imageNum++] = new imageItem (imageDir + "hair9.jpeg");
+imageArray[imageNum++] = new imageItem (imageDir + "hair10.jpeg");
 
 var totalImages = imageArray.length;
 
