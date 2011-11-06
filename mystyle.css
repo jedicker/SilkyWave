@@ -179,12 +179,9 @@ div#page {
 	background-color: #fff;
 	margin: 0 auto;
 	text-align: left;
-	border-color: #ddd;
-	border-style: none solid solid;
-	border-width: medium 1px 1px;
 }
 div#container {
-	padding: 20px;
+	padding: 10px;
 }
 
 div.content {
@@ -270,8 +267,9 @@ div.caption {
 	padding: 12px;
 }
 div.image-title {
-	font-weight: bold;
+/*	font-weight: bold;*/
 	font-size: 1.4em;
+	color: #1B435E;
 }
 div.image-desc {
 	line-height: 1.3em;
@@ -337,3 +335,18 @@ div.pagination span.ellipsis {
 	border: none;
 	padding: 5px 0 3px 2px;
 }
+
+img.paddingright {
+	padding-right: 200px;
+	padding-top: 10px;
+	padding-bottom: 7px;
+}
+
+img.picheader {
+	padding-top: 0px;
+	padding-bottom: 25px;
+	float: right;
+	padding-left: 5px;
+}
+
+
