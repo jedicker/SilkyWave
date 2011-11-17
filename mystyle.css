@@ -61,13 +61,18 @@ td.right {
 }
 
 
-.class1 a:hover {
-	text-decoration: none;
-	color: #A8DAF4;
+a:link {
+color: white;
+text-decoration: none;
 }
 
-.class1 a:visited {
+a.class1:visited {
 	color: white;
+}
+
+a.class1:hover {
+	text-decoration: none;
+	color: #A8DAF4;
 }
 
 
@@ -136,12 +141,6 @@ ul li {
 
 li.bg {
 	background-color: #EEF3E2;
-}
-
-
-a:link {
-color: white;
-text-decoration: none;
 }
 
 
