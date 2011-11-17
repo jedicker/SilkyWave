@@ -52,12 +52,12 @@ td.header {
 }
 
 
-td.header a:hover, {
+td.header a:hover {
 	text-decoration: none;
 	color: #A8DAF4;
 }
 
-td.headeer a:visited {
+td.header a:visited {
 	color: white;
 }
 
