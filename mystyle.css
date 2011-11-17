@@ -139,9 +139,11 @@ ul li {
 	margin: 0;	
 }
 
-li.bg {
+li.bg, th.bg, td.bg {
 	background-color: #EEF3E2;
 }
+
+
 
 
 * html ul li a {
